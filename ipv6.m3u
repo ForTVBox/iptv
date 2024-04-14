@@ -18,17 +18,17 @@ http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 tvg-id="F02" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="收藏",五星体育
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="F02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="收藏",上海都市
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
+http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
 #EXTINF:-1 group-title="收藏" tvg-id="上海新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101121833107.jpg",上海新闻综合频道
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+http://222.71.11.180:4022/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="收藏" tvg-id="东方影视" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101121833107.jpg",上海东方影视
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
+http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="收藏" tvg-id="上海教育" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101121833107.jpg",上海教育
 http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="收藏",东方卫视
-http://123.163.114.224:85/tsfile/live/0107_1.m3u8
+hthttp://59.55.34.159:20000/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="收藏",纪实人文
-http://php.jdshipin.com:8880/bst.php?id=jsrw
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="收藏",都市剧场
 http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="收藏",欢笑剧场
